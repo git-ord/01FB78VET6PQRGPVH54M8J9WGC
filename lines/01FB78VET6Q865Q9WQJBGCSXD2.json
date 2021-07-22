@@ -1,0 +1,32 @@
+{
+  "id": "01FB78VET6Q865Q9WQJBGCSXD2",
+  "created_at": "2021-07-22T14:10:32+00:00",
+  "updated_at": "2021-07-22T14:10:32+00:00",
+  "name": "Practical Cotton Table",
+  "images": {
+    "thumb": null,
+    "full": "http://placeimg.com/640/480/food"
+  },
+  "status": "unpaid",
+  "customer_notes": "",
+  "admin_notes": "",
+  "variant": null,
+  "dimensions": [
+
+  ],
+  "quantity": {
+    "amount": 4,
+    "unit": "each"
+  },
+  "unit_price": {
+    "amount": 655,
+    "currency": "USD"
+  },
+  "subtotal": {
+    "amount": 2620,
+    "currency": "USD"
+  },
+  "discounts": [
+
+  ]
+}
