@@ -7,7 +7,7 @@
   "customer": null,
   "id": "01FB78VET6PQRGPVH54M8J9WGC",
   "url": "https://github.com/git-ord/01FB78VET6PQRGPVH54M8J9WGC.git",
-  "status": "submitted",
+  "status": "completed",
   "customer_notes": "",
   "admin_notes": "",
   "created_at": "2021-07-22T14:10:32+00:00",
@@ -16,8 +16,12 @@
     "amount": 15352,
     "currency": "USD"
   },
-  "discounts": [],
-  "taxes": [],
+  "discounts": [
+
+  ],
+  "taxes": [
+
+  ],
   "shipping": {
     "address": null,
     "method": null,
